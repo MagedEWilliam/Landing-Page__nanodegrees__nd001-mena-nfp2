@@ -2,8 +2,8 @@
 
 ## Outlines
 
-* [Landing page behavior](#Landing page behavior)
-* [Interface and Architecture](#Interface and Architecture)
+* [Landing page behavior](#Landing-page-behavior)
+* [Interface and Architecture](#Interface-and-Architecture)
 
 ## Landing page behavior
 
@@ -22,4 +22,5 @@ js
 README.md
 ```
 
-In this project we are using modern ES6/ES2015, with all the code are cross-browser💯, also we made sure to provide comment when needed
+In this project we are using modern ES6/ES2015, with all the code are cross-browser 💯
+Also we made sure to provide comment when needed
