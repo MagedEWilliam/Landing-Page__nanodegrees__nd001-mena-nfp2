@@ -80,6 +80,8 @@ section {
     font-weight: bold;
     text-decoration: none;
     color: #000;
+    background: transparent;
+    transition: background .5s ease-in-out;
 }
 
 .navbar__menu .menu__link.active,
@@ -172,7 +174,7 @@ section:nth-of-type(3n) .landing__container::after {
     height: 10vh;
     border-radius: 50%;
     opacity: 0;
-    transition: ease 0.5s all;
+    transition: ease 1s all;
 }
 
 section:nth-of-type(3n + 1) .landing__container::after {
@@ -187,7 +189,7 @@ section:nth-of-type(3n + 1) .landing__container::after {
     height: 15vh;
     border-radius: 50%;
     opacity: 0;
-    transition: ease 0.5s all;
+    transition: ease 1s all;
 }
 
 
